@@ -1,0 +1,11 @@
+﻿.navbar {
+    background-color: #04173f;
+}
+
+nav.main-nav li a.active-link {
+    border-left: 5px solid #04173f;
+}
+
+#razor-pages-in-action img{
+    max-width:100%!important;
+}
